@@ -58,7 +58,7 @@ Dentro del archivo de Google Colab es posible seguir el proceso de prueba mostra
 
 ### Predicción en video
 
-El resultado de la prueba realizada se puede acceder a través de este mismo repositorio, dentro del archivo: ``` videos/results2.avi ```.
+El resultado de la prueba realizada se puede acceder a través de la siguiente liga a [Google Drive](https://drive.google.com/file/d/1-BGxeloP_nnuSyfX5MegLyEYdULahVjO/view?usp=sharing).
 
 ### Autoevaluación y Coevaluación
 
