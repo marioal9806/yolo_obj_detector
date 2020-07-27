@@ -68,6 +68,5 @@ Alumno |Matrícula | Nota
 -------|----- | ----------
 Samuel Pacheco Cantú | A01039815 | 5
 Helmer Enrique Muñoz | A00819255 | 5
-Rodolfo Presa Silva | A00817281 | 5
 Ricardo Urbina Prieto | A00820309 | 5
 Mario Alberto Ortega | A01730557 | 5
